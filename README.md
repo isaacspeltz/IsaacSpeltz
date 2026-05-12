@@ -1,4 +1,7 @@
-<img src="<img width="1774" height="887" alt="viking_binary_ocean" src="https://github.com/user-attachments/assets/25d0c58b-2f3a-4378-934e-fcc67f5abb33" />" width="100%">
+<p align="center">
+ <img src="<img width="1774" height="887" alt="viking_binary_ocean" src="https://github.com/user-attachments/assets/f7293899-e048-4a52-8074-abbb88796a21" />
+" width="100%"> width="100%">
+</p>
 
 # Howdy! 👋
 
