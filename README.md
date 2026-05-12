@@ -1,4 +1,4 @@
-![Banner](<img width="1774" height="887" alt="viking_binary_ocean" src="https://github.com/user-attachments/assets/fc70bb56-9e0c-4a47-88fd-a351335ee67e" />)
+<img src="<img width="1774" height="887" alt="viking_binary_ocean" src="https://github.com/user-attachments/assets/25d0c58b-2f3a-4378-934e-fcc67f5abb33" />" width="100%">
 
 # Howdy! 👋
 
