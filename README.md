@@ -1,16 +1,17 @@
-## Hi there 👋
+![Banner](https://i.imgur.com/SEU_BANNER.png)
 
-<!--
-**isaacspeltz/IsaacSpeltz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Howdy! 👋
 
-Here are some ideas to get you started:
+I'm Isaac Speltz
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Computer Science student currently in my 1st semester  
+🎯 Interested in programming and technology  
+📍 Curitiba, Paraná — South Brazil  
+
+## Programming Languages
+- Python
+- HTML5
+- CSS
+
+## Contact
+📧 ic.mor007@gmail.com
