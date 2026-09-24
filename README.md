@@ -2,12 +2,12 @@
   <img width="2056" src="https://github.com/user-attachments/assets/d3a8ad28-14e4-4db5-82f0-62699cd49404" />
 </p>
 
-# Howdy! 👋
+# Howdy! 
 I'm Isaac Speltz
 
-💻 Computer Science student currently in my 1st semester  
-🎯 Interested in programming and technology  
-📍 Curitiba, Paraná — South Brazil  
+Computer Science student currently in my 2nd semester  
+Interested in programming/coding and AI
+📍Curitiba, Paraná — South Brazil  
 
 ## Programming Languages
 
